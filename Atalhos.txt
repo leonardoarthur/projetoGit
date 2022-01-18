@@ -3,3 +3,6 @@ git init - Faz a pasta virar um git
 git status - Verifica o conteudo da pasta e o que ainda não recebeu Commit
 git add "meu codigo.txt" - Prepara o arquivo
 git add . - Adiciona todos os arquivos
+git commit -m "nome" - Faz um commit
+$ git push - Mardar para a nuvem
+git remote add origin + link do repositorio - você consegue likar o repositorio
