@@ -6,3 +6,7 @@ git add . - Adiciona todos os arquivos
 git commit -m "nome" - Faz um commit
 $ git push - Mardar para a nuvem
 git remote add origin + link do repositorio - você consegue likar o repositorio
+
+git reflog - Ver as versões anteriores. você pode pegar IDs
+git reset --hard numero do ID - Voltar para vesão anterior ou ir para atual
+git pull - Verifica se você está no codigo mais atual
