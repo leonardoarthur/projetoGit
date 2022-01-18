@@ -1,0 +1,5 @@
+Git Bash na pasta
+git init - Faz a pasta virar um git
+git status - Verifica o conteudo da pasta e o que ainda não recebeu Commit
+git add "meu codigo.txt" - Prepara o arquivo
+git add . - Adiciona todos os arquivos
